@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(31, 30, 30);
+}
+
+
+.titulocont {
+    align-items: center;
+    background-color: #242127;
+    border-radius: 5px;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.3);
+
+}
+.titulo {
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 0 3px 15px rgba(0, 0, 0, 0.3);
+
+}
+.exp { 
+    color: aliceblue;
+
+}
